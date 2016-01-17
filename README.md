@@ -1,8 +1,7 @@
 # Twitter Crawler
-### Rashid Goshtasbi and Brendan Cheng
-SID: 861056442 and 861055750
+### Brendan Cheng and Rashid Goshtasbi
 
-Hello there! T-Crawler is an open source project for Linux to download tweets over twitter that has geolocation enabled. These tweets are indexed and can be retrieved by search through a Java servlet that acts as a search engine.
+Hello there! TSearchEngine is an open source project for Linux to download tweets over twitter that has geolocation enabled. These tweets are indexed and can be retrieved by search through a Java servlet that acts as a search engine.
 
 ##Collaboration Details
 Description of contributions of each team member
@@ -25,6 +24,7 @@ Description of contributions of each team member
 * Researched on how to configure Apache Tomcat with Eclipse
 * Researched on how .XML, .JSP, and .Java files interact
 * Configured server host for Tomcat
+* Ranked indexes based on search query
 * Setup XML file to deploy descriptors for our servlet
 * Configured .JSP and .HTML files to create a UI interface
 * Convert JSON objects to strings
