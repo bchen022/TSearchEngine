@@ -5,20 +5,6 @@ Hello there! TSearchEngine is an open source project for Linux to download tweet
 
 ##Collaboration Details
 Description of contributions of each team member
-###Rashid
-* Researched on how to configure Apache Tomcat with Eclipse
-* Researched on how .XML, .JSP, and .Java files interact
-* Configured server host for Tomcat
-* Configured internal and external .jar libraries
-* Ranked indexes based on search query
-* Configure Lucene to accept JSON Files
-* Convert JSON objects to strings
-* Setup string values for index search algorithm to pass from .java to .jsp files to display to webpage
-* Setup core .jar libraries
-* Files: LuceneExample.java, textOutput.java, search\_engine.jsp, json.jar, lucene.jar
-
-
-
 
 ###Brendan
 * Researched on how to configure Apache Tomcat with Eclipse
@@ -30,6 +16,18 @@ Description of contributions of each team member
 * Convert JSON objects to strings
 * Setup string values for index search by concatenation
 * Files: LuceneExample.java, textOutput.java, search\_engine.jsp, web.xml, search.html
+
+###Rashid
+* Researched on how to configure Apache Tomcat with Eclipse
+* Researched on how .XML, .JSP, and .Java files interact
+* Configured server host for Tomcat
+* Configured internal and external .jar libraries
+* Ranked indexes based on search query
+* Configure Lucene to accept JSON Files
+* Convert JSON objects to strings
+* Setup string values for index search algorithm to pass from .java to .jsp files to display to webpage
+* Setup core .jar libraries
+* Files: LuceneExample.java, textOutput.java, search\_engine.jsp, json.jar, lucene.jar
 
 ##Overview of System
 * **Architecture:**
