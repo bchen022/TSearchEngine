@@ -1,4 +1,4 @@
-# Twitter Crawler
+# Twitter Search Engine
 ### Brendan Cheng and Rashid Goshtasbi
 
 Hello there! TSearchEngine is an open source project for Linux to download tweets over twitter that has geolocation enabled. These tweets are indexed and can be retrieved by search through a Java servlet that acts as a search engine.
